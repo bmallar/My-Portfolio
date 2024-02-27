@@ -41,3 +41,26 @@ a {
 
 }
 
+.img-me {
+    display: block;
+    width: 180px;
+}
+
+.horiseon-refactor {
+    width: 1900px;
+    height:600px;
+    
+}
+.place-holder {
+    width:400px;
+    margin-left: 400px;
+
+
+}
+
+.place-holder-2 {
+    width: 665px;
+}
+
+
+
