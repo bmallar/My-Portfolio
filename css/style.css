@@ -28,21 +28,4 @@ a{
 
 li {
     display: inline;
-    padding: 0px 20px;
-
-
-}
-.personal-info {
-    text-align: right;
-
-}
-.personal-info:active {
-    color: blue;
-    
-
-
-}
-header:hover {
-    background-color: black;
-
-}
+    padding: 0px 20px;}
