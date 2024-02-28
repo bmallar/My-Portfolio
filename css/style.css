@@ -7,6 +7,7 @@
 
 body {
     background-color: whitesmoke;
+    flex-wrap: wrap;
 }
 
 .navigation, footer {
@@ -68,8 +69,18 @@ p {
     font-size: 20px;
 
 }
-@media screen {
-    
+@media screen and (max-width: 768px) {
+     body {
+    width:50%
+
+    }
+
+}
+
+@media screen and (max-width:992px) {
+  body {
+      width:100%
+    }
 }
 
 
