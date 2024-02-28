@@ -37,4 +37,4 @@ then i made them change colors to make sure they are working
 
   [visit my page here](https://bmallar.github.io/My-Portfolio/){:target="_blank"}
 
- ![My project](images\Screenshot (7).png)
+ ![My project](./images/Screenshot%20(7).png)
