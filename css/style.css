@@ -33,6 +33,7 @@ body {
 a {
     color: whitesmoke;
     text-decoration: none;
+
 }
 
 .navigation ul li  {
@@ -44,6 +45,7 @@ a {
 .img-me {
     display: block;
     width: 180px;
+
 }
 
 .horiseon-refactor {
@@ -51,16 +53,25 @@ a {
     height:600px;
     
 }
+
 .place-holder {
     width:400px;
     margin-left: 400px;
-
 
 }
 
 .place-holder-2 {
     width: 665px;
 }
+
+p {
+    font-size: 20px;
+
+}
+@media screen {
+    
+}
+
 
 
 
