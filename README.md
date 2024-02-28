@@ -17,5 +17,21 @@ Lastly for my footer I have the i have the selectors so links take me down to th
 
 CSS
 
+To start off lines 1 through 6 are some universal rules that made things easier for me starting off
 
+Then I set my body background as white so my entire background is white
+
+Next .navigation is set to change my header and everything inside of it, footer is also placed in with a comma
+
+Lines 12-24 are for my header and footer because i want them to be the same size 
+
+then a has no text decoration so the links are not  underlined then i made them white to look better
+
+.img .Horiseon .place holder and .place holder 2 are for my image size and placement
+
+.what-work-i-have-done was made for getting my media screen to look good 
+
+then all the media screen is made for all screen sizes to look good if viewing on a phone or smaller screen
+
+then i made them change colors to make sure they are working
 
