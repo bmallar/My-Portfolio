@@ -1,5 +1,5 @@
 # My-Portfolio
-HTML
+### HTML
 
 To start off line 5 in the meta data is so people can view it on smaller devices 
 
@@ -15,7 +15,7 @@ I also made seperate classes for every image, so I can move and style them how I
 
 Lastly for my footer I have the i have the selectors so links take me down to them. And the h1 h2 for my contact and info.
 
-CSS
+### CSS
 
 To start off lines 1 through 6 are some universal rules that made things easier for me starting off
 
@@ -35,6 +35,6 @@ then all the media screen is made for all screen sizes to look good if viewing o
 
 then i made them change colors to make sure they are working
 
-  [visit my page here](https://bmallar.github.io/My-Portfolio/){:target="_blank"}
+  [visit my page here](https://bmallar.github.io/My-Portfolio/)
 
  ![My project](./images/Screenshot%20(7).png)
